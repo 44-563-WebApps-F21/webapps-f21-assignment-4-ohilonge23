@@ -1,6 +1,24 @@
-p.DUKE {color:antiquewhite; font-family: sans-serif; font-size: small;}
-.MAFFIO{color:brown; font-family: sans-serif; font-size: small;}
-.CARDINAL{color:blue; font-family: sans-serif; font-size: small;}
-p.GUIDO{color:bisque; font-family: sans-serif; font-size: small;}
-.BARDI{color:blueviolet; font-family: sans-serif; font-size: small;}
-p.stage-direction:hover{color:azure; font-family: sans-serif; font-size: small;background-color:aqua;}
+.DUKE {color:rgb(27, 199, 107); 
+    font-family: sans-serif; 
+    font-size: small;}
+
+.MAFFIO{color:rgb(73, 17, 216); 
+    font-family: sans-serif; 
+    font-size: small;}
+
+.CARDINAL{color:rgb(209, 24, 24); 
+    font-family: sans-serif; 
+    font-size: small;}
+
+.GUIDO{color:rgb(231, 27, 170);
+    font-family: sans-serif; 
+    font-size: small;}
+
+.BARDI{color:blueviolet; 
+    font-family: sans-serif; 
+    font-size: small;}
+
+.stage-direction:hover{color:azure; 
+    font-family: sans-serif; 
+    font-size: small;
+    background-color:aqua;}
