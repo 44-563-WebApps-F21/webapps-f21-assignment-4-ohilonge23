@@ -34,3 +34,5 @@
 .name:hover{border-style: solid;
     border-color:rgb(39, 39, 110);
     color: rgb(109, 109, 224);}
+
+    tr:nth-child(even) {background-color: #f2f2f2;}
