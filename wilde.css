@@ -30,3 +30,7 @@
     grid-auto-rows: auto; 
     margin-right: auto; 
     padding-bottom: auto}
+
+.name:hover{border-style: solid;
+    border-color:rgb(39, 39, 110);
+    color: rgb(109, 109, 224);}
